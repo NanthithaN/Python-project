@@ -1,4 +1,4 @@
-name: Excel Updater Automation
+name: automation
 
 on:
   schedule:
